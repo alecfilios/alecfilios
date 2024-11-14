@@ -2,10 +2,10 @@
 
 <p align="center" style="margin: 10px">
   <a href="https://www.linkedin.com/in/alecfilios" target="_blank">
-    <img alt="LinkedIn" width="32px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1saW5rZWRpbiI+PHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iMTIiIHg9IjIiIHk9IjkiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg==" />
+    <img alt="LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
   </a>
   <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
-    <img alt="Stack Overflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
+    <img alt="Stack Overflow" width="32px" src="https://img.icons8.com/?size=100&id=YzbiF8mqg9Gz&format=png&color=000000" />
   </a>
 
 <h1 align="center" style="font-family: 'Futura', sans-serif; color: #E0E4E8;">Alec Filios</h1>
