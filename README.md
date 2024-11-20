@@ -24,6 +24,7 @@
   <img alt="JavaScript" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="Vue.js" width="40px" style="margin: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="Python" width="40px" style="margin: 15px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" /
 </p>
 
 <div align="right" style="position: fixed; bottom: 10px; right: 10px;">
