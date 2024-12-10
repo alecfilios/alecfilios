@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/alecfilios" target="_blank">
     <img alt="LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
   </a>
-  <a href="https://stackoverflow.com/users/yumibakura" target="_blank">
+  <a href="[https://stackoverflow.com/users/yumibakura](https://stackoverflow.com/users/13186331/yumibakura)" target="_blank">
     <img alt="Stack Overflow" width="32px" src="https://img.icons8.com/?size=100&id=YzbiF8mqg9Gz&format=png&color=000000" />
   </a>
 
