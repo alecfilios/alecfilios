@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="hero.gif" width="100%" />
+  <img src="header.svg" width="100%" alt="Alec Filios, Founder &amp; CEO, Aphilion AI" />
 </div>
